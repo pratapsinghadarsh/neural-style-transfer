@@ -2,7 +2,7 @@ import altair as alt
 import numpy as np
 import streamlit as st
 import tensorflow as tf
-import tensorflow_hub as hun
+import tensorflow_hub as hub
 import PIL as Image
 
 
