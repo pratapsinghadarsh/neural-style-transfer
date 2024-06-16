@@ -16,7 +16,7 @@ Content Image:
 
 Style Image:
 
-![modern_art](https://github.com/pratapsinghadarsh/neural-style-transfer/assets/139372823/a8533256-75c8-4a91-baf2-af60ffd368a0)
+![modern_art](https://github.com/pratapsinghadarsh/neural-style-transfer/assets/139372823/281332ca-7789-44a6-9367-44c79061e18d)
 
 Result:
 
