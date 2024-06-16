@@ -11,12 +11,15 @@ In normal problems(i.e. Classification, Regression etc), we make a model(set of 
 You can access all the details about this project such as style and content, gram matrix, losses and type of losses in the pdf provided.
 
 Content Image:
+
 ![park](https://github.com/pratapsinghadarsh/neural-style-transfer/assets/139372823/17d768aa-f936-4778-bf32-53956b9811f7)
 
 Style Image:
+
 ![modern_art](https://github.com/pratapsinghadarsh/neural-style-transfer/assets/139372823/a8533256-75c8-4a91-baf2-af60ffd368a0)
 
 Result:
+
 ![1 (2)](https://github.com/pratapsinghadarsh/neural-style-transfer/assets/139372823/2f70b81d-0e8d-46cc-acb2-4254d08c8ad3)
 
 
