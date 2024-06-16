@@ -74,6 +74,7 @@ Final photo after the style transfer will automatically get saved in your drive.
 
 ## Examples
 Transfering style gives beautiful artistic results:
+
 ![frida_modern_art](https://github.com/pratapsinghadarsh/neural-style-transfer/assets/139372823/f736b226-9b27-400a-bbae-6551ec710234)
 
 You can access the details of this project in the pdf provided.
